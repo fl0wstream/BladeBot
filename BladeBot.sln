@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhantomBot", "PhantomBot.csproj", "{782B7BDC-0BB0-42EB-8D5F-8DB0F0D4640A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladeBot", "BladeBot.csproj", "{782B7BDC-0BB0-42EB-8D5F-8DB0F0D4640A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
